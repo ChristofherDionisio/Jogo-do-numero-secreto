@@ -11,8 +11,10 @@ Este é um projeto realizado no decorrer do curso de lógica de programação da
 
 <h2>Tecnologias utilizadas</h2>
 
-- CSS <img src= https://img.shields.io/badge/:badgeContent>
+- CSS 
 - HTML
 - JavaScript
+
+<img src= https://github.com/ChristofherDionisio/Meu-banco-de-imagens/blob/main/CSS.png> <img src= https://github.com/ChristofherDionisio/Meu-banco-de-imagens/blob/main/HTML.png> <img src= https://github.com/ChristofherDionisio/Meu-banco-de-imagens/blob/main/JavaScript.png>
 
 *By Christofher*
